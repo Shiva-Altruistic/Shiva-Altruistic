@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shiva 
 ================================================================================================================================
 
- AI Engineer || AI Architect || Machine Learning Engineer
+AI Engineer || AI Architect || Machine Learning Engineer
 --------------------------------------------
 
-I crash every time I try to debug my life! Just a regular out of the mill nerdy guy, minding his own business being a student in the day and a Ethical Hacker by the night.
+I crash everytime I try to Debug my life! Just a regular out of the mill nerdy guy, minding his own business being a student in the day and a Ethical Hacker by the night.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karetiss05@gmail.com](mailto:karetiss05@gmail.com)
@@ -30,8 +30,8 @@ src="https://img.shields.io/github/followers/Shiva-Altruistic?logo=github&style=
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-
-
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
 
